@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Qian\\three\\Vue\\vue"
+		},
+		{
+			"path": "D:\\Qian\\three\\Vue\\ximalaya"
+		}
+	],
+	"settings": {
+		"search.followSymlinks": false,
+		"git.enabled": false,
+		"git.autorefresh": false
+	}
+}
